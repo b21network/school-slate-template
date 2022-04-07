@@ -1,0 +1,7 @@
+[holomapping]
+holosource = "school-slate=>emergence-site"
+root = "webapp-plugin-builds/school-cbl-config"
+files = [
+    "**/*.js",
+    "**/*.css"
+]

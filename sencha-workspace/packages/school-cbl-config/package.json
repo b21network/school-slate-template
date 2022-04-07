@@ -1,0 +1,32 @@
+{
+    "name": "school-cbl-config",
+    "sencha": {
+        "version": "1.0.0",
+        "namespace": "School.cbl.Config",
+        "type": "code",
+        "framework": "ext",
+        "toolkit": "classic",
+        "theme": "theme-neptune",
+        "requires": [
+            "slate-cbl-colors"
+        ],
+        "overrides": [
+            "${package.dir}/overrides"
+        ],
+        "sass": {
+            "namespace": "Slate.cbl",
+            "etc": [
+                "${package.dir}/sass/etc/all.scss"
+            ]
+        },
+        "compressor": {
+            "polyfills": "none"
+        },
+        "output": {
+            "base": "${package.dir}/build",
+            "js": {
+                "version": "ES6"
+            }
+        }
+    }
+}
