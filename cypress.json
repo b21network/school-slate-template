@@ -1,0 +1,7 @@
+{
+    "baseUrl": "http://localhost:2150",
+    "env": {
+        "STUDIO_CONTAINER": "nlis-studio",
+        "TEST_USER": "teacher"
+    }
+}
