@@ -1,7 +1,7 @@
 {
     "baseUrl": "http://localhost:2150",
     "env": {
-        "STUDIO_CONTAINER": "nlis-studio",
+        "STUDIO_CONTAINER": "school-slate-studio",
         "TEST_USER": "teacher"
     }
 }
