@@ -1,0 +1,7 @@
+site_name: School Slate Docs
+site_url: https://b21network.github.io/school-slate
+
+theme:
+  palette:
+    primary: "cyan"
+    accent: "orange"

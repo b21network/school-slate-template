@@ -1,0 +1,7 @@
+extra:
+  studio:
+    name: school-slate-studio
+    web_port: 2150
+    static_port: 2151
+    docs_port: 2158
+    mysql_port: 2156
