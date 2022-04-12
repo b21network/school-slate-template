@@ -1,0 +1,42 @@
+name: Holobranch Projections
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  holobranch-projections:
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: 'Update holobranch: emergence/layer/v1'
+      uses: JarvusInnovations/hologit@actions/projector/v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        HAB_LICENSE: accept
+      with:
+        ref: main
+        holobranch: emergence-layer
+        commit-to: emergence/layer/v1
+
+    # - name: 'Update staging.school.slatepowered.net'
+    #   env:
+    #     VFS_DEV_TOKEN: ${{ secrets.VFS_DEV_TOKEN }}
+    #   run: |
+    #     # pull latest commit
+    #     curl -X POST \
+    #       --silent \
+    #       --fail \
+    #       -H "Authorization: Token ${VFS_DEV_TOKEN}" \
+    #       -H "Accept: application/json" \
+    #       "http://staging.school.slatepowered.net/site-admin/sources/school-slate/pull?fetch=true" \
+    #       | jq '.'
+
+    #     # sync VFS to git
+    #     curl -X POST \
+    #       --silent \
+    #       --fail \
+    #       -H "Authorization: Token ${VFS_DEV_TOKEN}" \
+    #       -H "Accept: application/json" \
+    #       "http://staging.school.slatepowered.net/site-admin/sources/school-slate/sync-to-vfs" \
+    #       | jq '.'
