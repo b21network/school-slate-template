@@ -39,7 +39,7 @@
     background-image: repeating-linear-gradient(-45deg, transparent, transparent 10px, rgba(77, 77, 77, 0.4) 11px, rgba(77, 77, 77, 0.4) 20px, transparent 21px);
 }
 /* /hab/cache/hololens/holo/lens-sencha-package/packages/slate-cbl-colors/sass/etc/all.scss:118 */
-.cbl-level-1 .cbl-level-progress-bar {
+.cbl-level-1 .cbl-level-progress-complete {
     background-image: -webkit-gradient(linear, top, bottom, color-stop(0%, #666), color-stop(0%, #4d4d4d));
     background-image: -webkit-linear-gradient(#666, #4d4d4d);
     background-image: -moz-linear-gradient(#666, #4d4d4d);
@@ -101,7 +101,7 @@
     background-image: repeating-linear-gradient(-45deg, transparent, transparent 10px, rgba(77, 77, 77, 0.4) 11px, rgba(77, 77, 77, 0.4) 20px, transparent 21px);
 }
 /* /hab/cache/hololens/holo/lens-sencha-package/packages/slate-cbl-colors/sass/etc/all.scss:118 */
-.cbl-level-2 .cbl-level-progress-bar {
+.cbl-level-2 .cbl-level-progress-complete {
     background-image: -webkit-gradient(linear, top, bottom, color-stop(0%, #666), color-stop(0%, #4d4d4d));
     background-image: -webkit-linear-gradient(#666, #4d4d4d);
     background-image: -moz-linear-gradient(#666, #4d4d4d);
@@ -163,7 +163,7 @@
     background-image: repeating-linear-gradient(-45deg, transparent, transparent 10px, rgba(77, 77, 77, 0.4) 11px, rgba(77, 77, 77, 0.4) 20px, transparent 21px);
 }
 /* /hab/cache/hololens/holo/lens-sencha-package/packages/slate-cbl-colors/sass/etc/all.scss:118 */
-.cbl-level-3 .cbl-level-progress-bar {
+.cbl-level-3 .cbl-level-progress-complete {
     background-image: -webkit-gradient(linear, top, bottom, color-stop(0%, #666), color-stop(0%, #4d4d4d));
     background-image: -webkit-linear-gradient(#666, #4d4d4d);
     background-image: -moz-linear-gradient(#666, #4d4d4d);
@@ -225,7 +225,7 @@
     background-image: repeating-linear-gradient(-45deg, transparent, transparent 10px, rgba(77, 77, 77, 0.4) 11px, rgba(77, 77, 77, 0.4) 20px, transparent 21px);
 }
 /* /hab/cache/hololens/holo/lens-sencha-package/packages/slate-cbl-colors/sass/etc/all.scss:118 */
-.cbl-level-4 .cbl-level-progress-bar {
+.cbl-level-4 .cbl-level-progress-complete {
     background-image: -webkit-gradient(linear, top, bottom, color-stop(0%, #666), color-stop(0%, #4d4d4d));
     background-image: -webkit-linear-gradient(#666, #4d4d4d);
     background-image: -moz-linear-gradient(#666, #4d4d4d);
@@ -287,7 +287,7 @@
     background-image: repeating-linear-gradient(-45deg, transparent, transparent 10px, rgba(77, 77, 77, 0.4) 11px, rgba(77, 77, 77, 0.4) 20px, transparent 21px);
 }
 /* /hab/cache/hololens/holo/lens-sencha-package/packages/slate-cbl-colors/sass/etc/all.scss:118 */
-.cbl-level-5 .cbl-level-progress-bar {
+.cbl-level-5 .cbl-level-progress-complete {
     background-image: -webkit-gradient(linear, top, bottom, color-stop(0%, #666), color-stop(0%, #4d4d4d));
     background-image: -webkit-linear-gradient(#666, #4d4d4d);
     background-image: -moz-linear-gradient(#666, #4d4d4d);
@@ -349,7 +349,7 @@
     background-image: repeating-linear-gradient(-45deg, transparent, transparent 10px, rgba(77, 77, 77, 0.4) 11px, rgba(77, 77, 77, 0.4) 20px, transparent 21px);
 }
 /* /hab/cache/hololens/holo/lens-sencha-package/packages/slate-cbl-colors/sass/etc/all.scss:118 */
-.cbl-level-6 .cbl-level-progress-bar {
+.cbl-level-6 .cbl-level-progress-complete {
     background-image: -webkit-gradient(linear, top, bottom, color-stop(0%, #666), color-stop(0%, #4d4d4d));
     background-image: -webkit-linear-gradient(#666, #4d4d4d);
     background-image: -moz-linear-gradient(#666, #4d4d4d);
@@ -411,7 +411,7 @@
     background-image: repeating-linear-gradient(-45deg, transparent, transparent 10px, rgba(77, 77, 77, 0.4) 11px, rgba(77, 77, 77, 0.4) 20px, transparent 21px);
 }
 /* /hab/cache/hololens/holo/lens-sencha-package/packages/slate-cbl-colors/sass/etc/all.scss:118 */
-.cbl-level-7 .cbl-level-progress-bar {
+.cbl-level-7 .cbl-level-progress-complete {
     background-image: -webkit-gradient(linear, top, bottom, color-stop(0%, #666), color-stop(0%, #4d4d4d));
     background-image: -webkit-linear-gradient(#666, #4d4d4d);
     background-image: -moz-linear-gradient(#666, #4d4d4d);
@@ -473,7 +473,7 @@
     background-image: repeating-linear-gradient(-45deg, transparent, transparent 10px, rgba(77, 77, 77, 0.4) 11px, rgba(77, 77, 77, 0.4) 20px, transparent 21px);
 }
 /* /hab/cache/hololens/holo/lens-sencha-package/packages/slate-cbl-colors/sass/etc/all.scss:118 */
-.cbl-level-8 .cbl-level-progress-bar {
+.cbl-level-8 .cbl-level-progress-complete {
     background-image: -webkit-gradient(linear, top, bottom, color-stop(0%, #666), color-stop(0%, #4d4d4d));
     background-image: -webkit-linear-gradient(#666, #4d4d4d);
     background-image: -moz-linear-gradient(#666, #4d4d4d);
@@ -535,7 +535,7 @@
     background-image: repeating-linear-gradient(-45deg, transparent, transparent 10px, rgba(202, 39, 79, 0.4) 11px, rgba(202, 39, 79, 0.4) 20px, transparent 21px);
 }
 /* /hab/cache/hololens/holo/lens-sencha-package/packages/slate-cbl-colors/sass/etc/all.scss:118 */
-.cbl-level-9 .cbl-level-progress-bar {
+.cbl-level-9 .cbl-level-progress-complete {
     background-image: -webkit-gradient(linear, top, bottom, color-stop(0%, #d94181), color-stop(0%, #ca274f));
     background-image: -webkit-linear-gradient(#d94181, #ca274f);
     background-image: -moz-linear-gradient(#d94181, #ca274f);
@@ -597,7 +597,7 @@
     background-image: repeating-linear-gradient(-45deg, transparent, transparent 10px, rgba(255, 125, 0, 0.4) 11px, rgba(255, 125, 0, 0.4) 20px, transparent 21px);
 }
 /* /hab/cache/hololens/holo/lens-sencha-package/packages/slate-cbl-colors/sass/etc/all.scss:118 */
-.cbl-level-10 .cbl-level-progress-bar {
+.cbl-level-10 .cbl-level-progress-complete {
     background-image: -webkit-gradient(linear, top, bottom, color-stop(0%, #ffa200), color-stop(0%, #ff7d00));
     background-image: -webkit-linear-gradient(#ffa200, #ff7d00);
     background-image: -moz-linear-gradient(#ffa200, #ff7d00);
@@ -659,7 +659,7 @@
     background-image: repeating-linear-gradient(-45deg, transparent, transparent 10px, rgba(56, 167, 25, 0.4) 11px, rgba(56, 167, 25, 0.4) 20px, transparent 21px);
 }
 /* /hab/cache/hololens/holo/lens-sencha-package/packages/slate-cbl-colors/sass/etc/all.scss:118 */
-.cbl-level-11 .cbl-level-progress-bar {
+.cbl-level-11 .cbl-level-progress-complete {
     background-image: -webkit-gradient(linear, top, bottom, color-stop(0%, #5dc02a), color-stop(0%, #38a719));
     background-image: -webkit-linear-gradient(#5dc02a, #38a719);
     background-image: -moz-linear-gradient(#5dc02a, #38a719);
@@ -721,7 +721,7 @@
     background-image: repeating-linear-gradient(-45deg, transparent, transparent 10px, rgba(0, 94, 168, 0.4) 11px, rgba(0, 94, 168, 0.4) 20px, transparent 21px);
 }
 /* /hab/cache/hololens/holo/lens-sencha-package/packages/slate-cbl-colors/sass/etc/all.scss:118 */
-.cbl-level-12 .cbl-level-progress-bar {
+.cbl-level-12 .cbl-level-progress-complete {
     background-image: -webkit-gradient(linear, top, bottom, color-stop(0%, #008cc1), color-stop(0%, #005ea8));
     background-image: -webkit-linear-gradient(#008cc1, #005ea8);
     background-image: -moz-linear-gradient(#008cc1, #005ea8);
